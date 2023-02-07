@@ -18,10 +18,8 @@ header{
     align-items: center;
     padding: 30px 10%;
 }
-.container{
 
-}
-.logo {
+.logo{
    font-size: 40px;
     margin-right: auto;
     background: linear-gradient(89.81deg, #2FB6A6 26.23%, #E87C7C 54.96%, rgba(90, 71, 171, 0.84) 99.87%);
